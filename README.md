@@ -29,6 +29,6 @@ DATASETS USED:
 
 The Dataset(Jan-25) folder contains all the datasets used in the Project.
 
-The Dataviz.ipynb is the python notebook used to proccess and clean the data and also perform EDA which is later used in Visualizing the Data
+The Dataviz.ipynb is the Jupyter notebook used to proccess and clean the data and also perform EDA which is later used in Visualizing the Data
 
 The Output files directory is where the cleaned and proccessed data is stored.
